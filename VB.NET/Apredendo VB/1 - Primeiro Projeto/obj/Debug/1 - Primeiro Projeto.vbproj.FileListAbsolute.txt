@@ -1,0 +1,12 @@
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.exe.config
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.exe
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.pdb
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.xml
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbproj.AssemblyReference.cache
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\obj\Debug\_1___Primeiro_Projeto.Resources.resources
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbproj.GenerateResource.cache
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbproj.CoreCompileInputs.cache
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.exe
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.xml
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.pdb
+C:\Users\lauri\OneDrive\Documentos\VB.NET\Apredendo VB\1 - Primeiro Projeto\obj\Debug\_1___Primeiro_Projeto.Form1.resources
